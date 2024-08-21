@@ -1,0 +1,1 @@
+gunicorn weatherApi.wsgi 
